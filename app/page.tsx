@@ -121,7 +121,7 @@ export default function Home() {
       {/* Header */}
       <div className="text-center mb-16">
         <h1 className="text-5xl font-bold text-gray-900 mb-4">
-          App Factory
+          AnyAppX
         </h1>
         <p className="text-xl text-gray-600 mb-8">
           AI-powered mobile app generation in under 60 seconds
@@ -218,7 +218,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="mt-16 text-center text-gray-500 text-sm">
         <p>Built with React Native + Expo SDK 52</p>
-        <p className="mt-1">Powered by Claude AI</p>
+        <p className="mt-1">Powered by AnyAppX AI</p>
       </footer>
 
       {/* Fullscreen Modal with interactive demo */}
