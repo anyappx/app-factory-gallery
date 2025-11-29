@@ -46,10 +46,10 @@ const apps = [
     category: 'Timer',
     color: '#EF4444',
     icon: '🍅',
-    status: 'Coming Soon',
+    status: 'Live',
     features: ['25/5/15 min intervals', 'Session tracking', 'History view', 'Notifications'],
     tech: 'React Native + Expo SDK 52',
-    demoUrl: '',
+    demoUrl: '/demos/pomodoro-timer/index.html',
   },
   {
     id: 'unit-converter',
@@ -58,10 +58,10 @@ const apps = [
     category: 'Converter',
     color: '#8B5CF6',
     icon: '📐',
-    status: 'Coming Soon',
+    status: 'Live',
     features: ['Multiple categories', 'Swap units', 'Real-time conversion'],
     tech: 'React Native + Expo SDK 52',
-    demoUrl: '',
+    demoUrl: '/demos/unit-converter/index.html',
   },
 ]
 
