@@ -46,10 +46,10 @@ const apps = [
     category: 'Converter',
     color: '#8B5CF6',
     icon: '📐',
-    status: 'Coming Soon',
+    status: 'Live',
     features: ['Multiple categories', 'Swap units', 'Real-time conversion'],
     tech: 'React Native + Expo SDK 52',
-    demoUrl: null,
+    demoUrl: '/demos/unit-converter/index.html',
   },
   {
     id: 'no-contacts-tracker',
